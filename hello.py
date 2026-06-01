@@ -1,1 +1,1 @@
-print("Hello from GitHub and Linux server!")
+print("version 2")
